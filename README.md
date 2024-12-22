@@ -5,9 +5,6 @@ The Number Guess Game is a simple and engaging game where players try to guess a
 
 Welcome to the Number Guessing Game! This is a fun and interactive game where players try to guess a randomly selected number within a specified range. It's a great way to challenge your logic and intuition!
 
-## Demo
-
-![Number Guessing Game Demo](https://midhun-code.neocities.org/Number%20guessing%20game/)
 
 ## Features
 
