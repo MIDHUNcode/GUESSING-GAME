@@ -7,7 +7,7 @@ Welcome to the Number Guessing Game! This is a fun and interactive game where pl
 
 ## Demo
 
-![Number Guessing Game Demo](https://via.placeholder.com/400x200.png?text=Number+Guessing+Game+Demo)
+![Number Guessing Game Demo](https://midhun-code.neocities.org/Number%20guessing%20game/)
 
 ## Features
 
