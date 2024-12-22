@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NUMBER GUESS GAME</title>
+  <link rel="icon" href="https://img.icons8.com/?size=100&id=43614&format=png&color=000000">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Number Guessing Game</h1>
+    <p class="detail" >Guess a number between 1 to 10</p>
+    <input type="number" placeholder="Enter Your Guess" class="value" id="num" min="1" max="10">
+    <button class="b" onclick="show()">Submit</button>
+    <button class="b" onclick="startGame()">Restart</button>
+    <p id="hide2" class="hide" style="color: white;">&#127881; You did it! &#127881;</p>
+    <p id="hide" class="hide"></p>
+  </div>
+  <script src="Game.js"></script>
+</body>
+</html>
